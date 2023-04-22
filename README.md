@@ -61,13 +61,9 @@ Heya! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavan
 <br>
 <ul>
 	<li>
-		Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding
+		<a href="https://www.dicoding.com/certificates/07Z6G0402XQR"> Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding </a>
 	</li>
 	<li>
-		Belajar Dasar Pemrograman Web - Dicoding
+		<a href="https://www.dicoding.com/certificates/4EXG92KLDZRL"> Belajar Dasar Pemrograman Web - Dicoding </a>
 	</li>
 </ul>
-- [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding](https://www.dicoding.com/certificates/07Z6G0402XQR)
-- [Belajar Dasar Pemrograman Web - Dicoding](https://www.dicoding.com/certificates/4EXG92KLDZRL)
-
-------
