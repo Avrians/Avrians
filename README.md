@@ -59,6 +59,4 @@ Heya! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavan
 - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding](https://www.dicoding.com/certificates/07Z6G0402XQR)
 - [Belajar Dasar Pemrograman Web - Dicoding](https://www.dicoding.com/certificates/4EXG92KLDZRL)
 
-
 ------
-  <!--[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6)-->
