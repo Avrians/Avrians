@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Avrians&label=Profile%20Views&color=0e75b6&style=flat" alt="LuthfiyahS" />
 </h1>
 
-Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"> I'm a Software Engineering Technology Student with an interest in software design, web development and testing. I am a fast learner and able to adapt to new technology.
+Heya! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"> I'm a Software Engineering Technology Student with an interest in software design, web development and testing. I am a fast learner and able to adapt to new technology.
 
  
 ## Let's Connect :coffee:
@@ -41,12 +41,15 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
 ## My Statistics
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="#">
-  <img width="36.3%" src="https://github-readme-stats.vercel.app/api?username=Avrians&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="36.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avrians&theme=gruvbox&hide_border=true" />
-	  <img width="26.3%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avrians&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Avrians&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avrians&theme=gruvbox&hide_border=true" />
+    
   </a>
+</p>
+<p align="left">
+<img width="26.3%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avrians&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
 </p>
 <br>
 
@@ -59,6 +62,7 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
 - [Memulai Pemrograman Dengan Python - Dicoding](https://www.dicoding.com/certificates/JLX1G020GZ72)
 
 ------
+
 
 
 
