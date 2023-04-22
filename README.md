@@ -53,9 +53,12 @@ Heya! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavan
 </p>
 <br>
 
+[![Avriansyah Bahtiar Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Avrians&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)] <br>
+
 
 <br>
 ## Licences and Certifications
+<br>
 - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding](https://www.dicoding.com/certificates/07Z6G0402XQR)
 - [Belajar Dasar Pemrograman Web - Dicoding](https://www.dicoding.com/certificates/4EXG92KLDZRL)
 
