@@ -17,9 +17,9 @@ Hey! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavang
 <p>
   <br>
 <div align="center">
-  // <a href="https://nodejs.org/en/" target="_blank">
-  //  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FF2D20" alt="nodejs"/>
-  // </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FF2D20" alt="nodejs"/>
+  </a>
   <a href="https://php.net" target="_blank">
     <img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/>
   </a>
@@ -33,7 +33,7 @@ Hey! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavang
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/-kotlin-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/-kotlin-white?logo=kotlin&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
 </div>
 </p>
 <br>
