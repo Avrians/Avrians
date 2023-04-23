@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Avrians&label=Profile%20Views&color=0e75b6&style=flat" alt="LuthfiyahS" />
 </h1>
 
-Heya! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"> I'm a Software Engineering Technology Student with an interest in software design, web development and testing. I am a fast learner and able to adapt to new technology.
+Hey! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"> I'm a Software Engineering Technology Student with an interest in software design, web development and testing. I am a fast learner and able to adapt to new technology.
 
  
 ## Let's Connect :coffee:
@@ -17,9 +17,9 @@ Heya! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavan
 <p>
   <br>
 <div align="center">
-	<a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FF2D20" alt="nodejs"/>
-  </a>
+  // <a href="https://nodejs.org/en/" target="_blank">
+  //  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FF2D20" alt="nodejs"/>
+  // </a>
   <a href="https://php.net" target="_blank">
     <img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/>
   </a>
@@ -33,6 +33,7 @@ Heya! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavan
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/-kotlin-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
 </div>
 </p>
 <br>
@@ -53,7 +54,7 @@ Heya! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavan
 </p>
 <br>
 
-[![Avriansyah Bahtiar Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Avrians&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)] <br>
+[Avriansyah Bahtiar Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Avrians&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00) <br>
 
 
 <br>
