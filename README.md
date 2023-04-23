@@ -54,7 +54,7 @@ Hey! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavang
 </p>
 <br>
 
-[Avriansyah Bahtiar Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Avrians&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00) <br>
+[![Avriansyah Bahtiar Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Avrians&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)] <br>
 
 
 <br>
