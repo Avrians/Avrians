@@ -55,7 +55,7 @@ Hey! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavang
 </p>
 <br>
 
-[![Avriansyah Bahtiar Trips' activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Avrians&theme=react-dark&custom_title=Avriansyah%20Bahtiar%20Activity%20a%20Graph&hide_border=true)] <br>
+[![Avriansyah Bahtiar Trips' activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Avrians&theme=react-dark&custom_title=Avriansyah%20Bahtiar%20Activity%20Graph&hide_border=true)] <br>
 
 <br>
 ## Licences and Certifications
