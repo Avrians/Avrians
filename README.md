@@ -56,7 +56,7 @@ Hey! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavang
 <br>
 
 [![Avriansyah Bahtiar Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Avrians&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)] <br>
-[![Avriansyah Bahtiar Trips' activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Avrians&custom_title=This%20is%20a%20title&hide_border=true)]
+[![Avriansyah Bahtiar Trips' activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Avrians&theme=dracula&custom_title=This%20is%20a%20title&hide_border=true)]
 
 <br>
 ## Licences and Certifications
