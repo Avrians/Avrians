@@ -66,6 +66,9 @@ Hey! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavang
 		<a href="https://www.dicoding.com/certificates/1RXY6L849ZVM"> Memulai Pemrograman Dengan Kotlin - Dicoding </a>
 	</li>
 	<li>
+		<a href="https://www.dicoding.com/certificates/N9ZO6YOJ0XG5"> Belajar Dasar Pemrograman JavaScript - Dicoding </a>
+	</li>
+	<li>
 		<a href="https://www.dicoding.com/certificates/4EXG92KLDZRL"> Belajar Dasar Pemrograman Web - Dicoding </a>
 	</li>
 	<li>
