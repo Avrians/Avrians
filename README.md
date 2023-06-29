@@ -1,6 +1,6 @@
 <h1 align="center">
   <b>Avriansyah Bahtiar</b><br>
-  <img src="https://komarev.com/ghpvc/?username=Avrians&label=Profile%20Views&color=0e75b6&style=flat" alt="LuthfiyahS" />
+  <img src="https://komarev.com/ghpvc/?username=Avrians&label=Profile%20Views&color=0e75b6&style=flat" alt="Avriansyah Bahtiar" />
 </h1>
 
 Hey! I'm Avriansyah Bahtiar<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"> I'm a Software Engineering Technology Student with an interest in software design, web development, mobile development and testing. I am a fast learner and able to adapt to new technology.
